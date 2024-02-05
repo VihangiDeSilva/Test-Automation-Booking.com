@@ -12,7 +12,7 @@ In order to efficiently target elements, I adopted a combination of CSS selector
 The project leveraged object-oriented programming principles. These concepts were employed to establish relationships between classes, facilitating code reuse and promoting modular design.
 
 - **Learning Curve and Timeline:**
-As a newcomer to automation, the project posed challenges owing to its complexity. Maneuvering through the intricacies of the project within the given timeframe demanded dedicated effort, especially considering the frequent updates on the booking.com website, where certain attributes are dynamic. Finding the correct element amidst these changes proved to be quite challenging. To overcome these challenges, I sought guidance from various learning resources, contributing to the completion of the project.
+As a newcomer to automation, the project presented challenges due to its complexity. Navigating through the project's intricacies within the given timeframe required dedicated effort, specially considering the frequent updates on the booking.com website, where certain attributes are dynamic. Finding the correct element amidst these changes proved to be quite challenging. To overcome these challenges, I sought guidance from various learning resources, contributing to the completion of the project.
 
 ## Requirements:
 - Supported Node Version: [20.10.0](https://nodejs.org/en/download)
