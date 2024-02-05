@@ -11,12 +11,8 @@ In order to efficiently target elements, I adopted a combination of CSS selector
 - **Object-Oriented Design:**
 The project leveraged object-oriented programming principles. These concepts were employed to establish relationships between classes, facilitating code reuse and promoting modular design.
 
-- **Configuration Management:**
-
-
 - **Learning Curve and Timeline:**
-As a newcomer to automation, the project presented challenges due to its complexity and timeline. Navigating through the project's intricacies within the given timeframe required dedicated effort. To overcome these challenges, I sought guidance from various learning resources, contributing to the completion of the project.
-
+As a newcomer to automation, the project posed challenges owing to its complexity. Maneuvering through the intricacies of the project within the given timeframe demanded dedicated effort, especially considering the frequent updates on the booking.com website, where certain attributes are dynamic. Finding the correct element amidst these changes proved to be quite challenging. To overcome these challenges, I sought guidance from various learning resources, contributing to the completion of the project.
 
 ## Requirements:
 - Supported Node Version: [20.10.0](https://nodejs.org/en/download)
@@ -34,7 +30,9 @@ As a newcomer to automation, the project presented challenges due to its complex
 
 ## Test-Summary-Report
 
-Please utilize the provided link to access the Screencast [Click here](https://drive.google.com/file/d/14AW-aiYBA7ttKfaoZsh3oWE_An4m3J29/view?pli=1).
+Please utilize the provided link to access the Screencast [Click here](https://drive.google.com/file/d/1ASMrC1X9S3urxGPzUDJkzqqc8WMMJKXu/view?usp=sharing).
+
+![Test Summary Report-1](https://github.com/VihangiDeSilva/Test-Automation-Amazon/assets/41775025/2c0b2cf5-560d-43e9-924f-0c9877ba523e)
 
 
 
