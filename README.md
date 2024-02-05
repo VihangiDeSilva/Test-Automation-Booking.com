@@ -1,4 +1,4 @@
-# Test-Automation-Booking.com
+# Test Automation - Booking.com
 This is test automation for the official [Booking.com](https://www.amazon.com/) website.
 
 I've created an automation framework that simplifies the process of booking a hotel reservation. I've used the webdriverio automation framework along with JavaScript as the programming language to ensure efficient implementation. Additionally, I've integrated Mocha, a testing framework that promotes Behavior-Driven Development principles, to ensure thorough testing and collaboration.
