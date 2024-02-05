@@ -32,7 +32,13 @@ As a newcomer to automation, the project posed challenges owing to its complexit
 
 Please utilize the provided link to access the Screencast [Click here](https://drive.google.com/file/d/1ASMrC1X9S3urxGPzUDJkzqqc8WMMJKXu/view?usp=sharing).
 
-![Test Summary Report-1](https://github.com/VihangiDeSilva/Test-Automation-Amazon/assets/41775025/2c0b2cf5-560d-43e9-924f-0c9877ba523e)
+![Test Summary Report - 01](https://github.com/VihangiDeSilva/Test-Automation-Booking.com/assets/41775025/b662c54e-c4aa-41d6-a19e-66fbff5d0aad)
+![Test Summary Report - 02](https://github.com/VihangiDeSilva/Test-Automation-Booking.com/assets/41775025/960d647a-ce2e-4d57-a36b-38de1998718b)
+![Test Summary Report - 03](https://github.com/VihangiDeSilva/Test-Automation-Booking.com/assets/41775025/8db9b5c5-f470-41d5-9915-b898875cadcb)
+![Test Summary Report - 04](https://github.com/VihangiDeSilva/Test-Automation-Booking.com/assets/41775025/6980616e-da36-4449-abb0-d2c327fa37f2)
+
+
+
 
 
 
